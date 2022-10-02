@@ -1,0 +1,18 @@
+[NOTICE]: The XAMLDesigner (actually called WpfDesigner) was made by SharpDevelop (ICSharpCode).
+
+I (unknown) just made this to launch the application, because the application didn't seem to fully close itself after exit.
+
+The actual WPFDesigner app is "bin/net6.0-windows/sharpdevelop xamldesigner.exe".
+
+I also modified the actual WPFDesigner so that it actually has a XAML logo icon and just added the name XAMLDesigner, and added Fody and Fody.Costura from Nuget to just "remove" some dlls and make it look like it has less stuff, nothing else.
+
+The source code is from this GitHub repo:
+https://github.com/icsharpcode/WpfDesigner
+
+And here's the *barely* modified source from the GitHub repo
+
+.NET 6.0 is required to run.
+
+-------------------------------
+
+I'm not taking any credit here, nothing here was made by me (except for the launcher and the "killdesigner" which kills the task just in case), I just called it XAMLDesigner instead of WpfDesigner and added a XAML logo to it with a shadow as an icon, I don't intend to sell this for anything in exchange, everything is open source here, no obfuscation.
