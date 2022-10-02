@@ -1,0 +1,15 @@
+D:\Applications\SharpDevelop XAMLDesigner\KillDesigner\bin\Release\net6.0\KillDesigner.exe
+D:\Applications\SharpDevelop XAMLDesigner\KillDesigner\bin\Release\net6.0\KillDesigner.deps.json
+D:\Applications\SharpDevelop XAMLDesigner\KillDesigner\bin\Release\net6.0\KillDesigner.runtimeconfig.json
+D:\Applications\SharpDevelop XAMLDesigner\KillDesigner\bin\Release\net6.0\KillDesigner.dll
+D:\Applications\SharpDevelop XAMLDesigner\KillDesigner\bin\Release\net6.0\KillDesigner.pdb
+D:\Applications\SharpDevelop XAMLDesigner\KillDesigner\obj\Release\net6.0\KillDesigner.csproj.AssemblyReference.cache
+D:\Applications\SharpDevelop XAMLDesigner\KillDesigner\obj\Release\net6.0\KillDesigner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\SharpDevelop XAMLDesigner\KillDesigner\obj\Release\net6.0\KillDesigner.AssemblyInfoInputs.cache
+D:\Applications\SharpDevelop XAMLDesigner\KillDesigner\obj\Release\net6.0\KillDesigner.AssemblyInfo.cs
+D:\Applications\SharpDevelop XAMLDesigner\KillDesigner\obj\Release\net6.0\KillDesigner.csproj.CoreCompileInputs.cache
+D:\Applications\SharpDevelop XAMLDesigner\KillDesigner\obj\Release\net6.0\KillDesigner.dll
+D:\Applications\SharpDevelop XAMLDesigner\KillDesigner\obj\Release\net6.0\refint\KillDesigner.dll
+D:\Applications\SharpDevelop XAMLDesigner\KillDesigner\obj\Release\net6.0\KillDesigner.pdb
+D:\Applications\SharpDevelop XAMLDesigner\KillDesigner\obj\Release\net6.0\KillDesigner.genruntimeconfig.cache
+D:\Applications\SharpDevelop XAMLDesigner\KillDesigner\obj\Release\net6.0\ref\KillDesigner.dll
