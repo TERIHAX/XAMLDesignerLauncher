@@ -1,0 +1,15 @@
+D:\Applications\SharpDevelop XAMLDesigner\SharpDevelop XAMLDesigner\bin\Release\net6.0-windows\XamlDesigner.exe
+D:\Applications\SharpDevelop XAMLDesigner\SharpDevelop XAMLDesigner\bin\Release\net6.0-windows\XamlDesigner.deps.json
+D:\Applications\SharpDevelop XAMLDesigner\SharpDevelop XAMLDesigner\bin\Release\net6.0-windows\XamlDesigner.runtimeconfig.json
+D:\Applications\SharpDevelop XAMLDesigner\SharpDevelop XAMLDesigner\bin\Release\net6.0-windows\XamlDesigner.dll
+D:\Applications\SharpDevelop XAMLDesigner\SharpDevelop XAMLDesigner\bin\Release\net6.0-windows\XamlDesigner.pdb
+D:\Applications\SharpDevelop XAMLDesigner\SharpDevelop XAMLDesigner\obj\Release\net6.0-windows\XamlDesigner.csproj.AssemblyReference.cache
+D:\Applications\SharpDevelop XAMLDesigner\SharpDevelop XAMLDesigner\obj\Release\net6.0-windows\XamlDesigner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\SharpDevelop XAMLDesigner\SharpDevelop XAMLDesigner\obj\Release\net6.0-windows\XamlDesigner.AssemblyInfoInputs.cache
+D:\Applications\SharpDevelop XAMLDesigner\SharpDevelop XAMLDesigner\obj\Release\net6.0-windows\XamlDesigner.AssemblyInfo.cs
+D:\Applications\SharpDevelop XAMLDesigner\SharpDevelop XAMLDesigner\obj\Release\net6.0-windows\XamlDesigner.csproj.CoreCompileInputs.cache
+D:\Applications\SharpDevelop XAMLDesigner\SharpDevelop XAMLDesigner\obj\Release\net6.0-windows\XamlDesigner.dll
+D:\Applications\SharpDevelop XAMLDesigner\SharpDevelop XAMLDesigner\obj\Release\net6.0-windows\refint\XamlDesigner.dll
+D:\Applications\SharpDevelop XAMLDesigner\SharpDevelop XAMLDesigner\obj\Release\net6.0-windows\XamlDesigner.pdb
+D:\Applications\SharpDevelop XAMLDesigner\SharpDevelop XAMLDesigner\obj\Release\net6.0-windows\XamlDesigner.genruntimeconfig.cache
+D:\Applications\SharpDevelop XAMLDesigner\SharpDevelop XAMLDesigner\obj\Release\net6.0-windows\ref\XamlDesigner.dll
